@@ -22,53 +22,62 @@
 **Описание результатов выполнения задания:**
 
 **№1.**
-Записал в файл file.txt названия файлов, содержащихся в каталоге /etc и ~ (Рис.1).
+Записал в файл file.txt названия файлов, содержащихся в каталоге /etc и ~ (Рис.1).  
 ![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.1. 
 
 **№2.**
-Вывел имена всех файлов из файла file.txt, имеющих расширение .conf, после  чего записал их в новый текстовый файл conf.txt (Рис.2).
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+Вывел имена всех файлов из файла file.txt, имеющих расширение .conf, после  чего записал их в новый текстовый файл conf.txt (Рис.2).  
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.2.
+
 **№3.**
-Определил, какие файлы в домашнем каталоге начинаются с символа «с» (Рис.3).
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+Определил, какие файлы в домашнем каталоге начинаются с символа «с» (Рис.3).  
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.3.
+
 **№4.**
-Вывел по странично на экран имена файлов из /etc, начинающиеся с символа «h» (Рис.4).
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+Вывел по странично на экран имена файлов из /etc, начинающиеся с символа «h» (Рис.4).  
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.4.
+
 **№5.**
-Запустил в фоновом режиме процесс, который будет записывать в файл ~/loglife файлы, имена которых начинаются с log (Рис.5).
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+Запустил в фоновом режиме процесс, который будет записывать в файл ~/loglife файлы, имена которых начинаются с log (Рис.5).  
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.5.
+
 **№6.**
-Удалил файл loglife (Рис.6).
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+Удалил файл loglife (Рис.6).  
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.6.
+
 **№7.**
-Запустил в консоли в фоновом режиме редактор gedit (Рис.7).
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+Запустил в консоли в фоновом режиме редактор gedit (Рис.7).  
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.7.
+
 **№8.**
-Определил идентификатор процесса gedit, использовав команду ps, конвейер и фильтр grep (Рис.8).
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+Определил идентификатор процесса gedit, использовав команду ps, конвейер и фильтр grep (Рис.8).  
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.8.
+
 **№9.**
-Прочитал справку команды kill, после чего использовал эту команду для завершения процесса gedit (Рис 9.).
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+Прочитал справку команды kill, после чего использовал эту команду для завершения процесса gedit (Рис 9.).   
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.9.
+
 **№10.**
-Выполнил команды df и du, предварительно узнав о них из man (Рис 10.1 и Рис 10.2).
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+Выполнил команды df и du, предварительно узнав о них из man (Рис 10.1 и Рис 10.2).    
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис 10.1.
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.10.2.
+
 **№11.**
-Вывел имена всех директорий, находящихся в домашнем каталоге, использовав команду find (Рис 11.1 и Рис 11.2).
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+Вывел имена всех директорий, находящихся в домашнем каталоге, использовав команду find (Рис 11.1 и Рис 11.2).    
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.11.1.
-![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)
+![6.1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(6)/6.1.png?raw=true)  
 Рис.11.2.
 
 ---
