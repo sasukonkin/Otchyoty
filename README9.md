@@ -66,27 +66,30 @@
 Рис.6.2
 
 - Перемещение курсора в начало буфера, с помощью Meta - < (Рис. 6.3).
-![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(9)/9.6.3png?raw=true)
+![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(9)/9.6.3.png?raw=true)
 Рис.6.3
 
 - Перемещение курсора в конец буфер, с помощью  Meta - > (Рис. 6.4).
-![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(9)/9.6.4pg?raw=true)
+![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(9)/9.6.4.png?raw=true)
 Рис.6.4
 
 **№7**
 Научился использовать команды по управлению буферами (Рис. 7.1-7.4):
 - Вывод на экран список активных буферов, с помощью Ctrl-x Ctrl-b (Рис. 7.1).
-![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(9)/9.7.1
-
+![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(9)/9.7.1.png?raw=true)
 Рис.7.1  
 
+- Переместился во вновь открытое окно со списком открытых буферов и переключился на другой буфер (Рис. 7.2).
+![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(9)/9.7.2.png?raw=true)
+Рис.7.2
 
+- Закрыл окно с открытыми буферами, используя Ctrl-x 0 (Рис. 7.3).
+![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(9)/9.7.3.png?raw=true)
+Рис.7.3
 
-
-
-
-
-
+- Вновь переключился между буферами, но уже без вывода их списка на экран, используя Ctrl-x b (Рис. 7.4).
+![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(9)/9.7.4.png?raw=true)
+Рис.7.4
 
 
 
