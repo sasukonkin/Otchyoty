@@ -34,7 +34,7 @@
 ![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(11)/11.2.1.png?raw=true)  
 Рис.2.1
 
-![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(11)/11.2.1.png?raw=true)
+![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(11)/11.2.2.png?raw=true)
 Рис.2.2
 
 **№3.**
