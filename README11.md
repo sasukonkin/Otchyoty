@@ -34,8 +34,8 @@
 ![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(11)/11.2.1.png?raw=true)   
 Рис.2.1  
 
-![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(11)/11.2.2.png?raw=true)
-Рис.2.2
+![1](https://github.com/sasukonkin/Otchyoty/blob/main/New%20folder%20(11)/11.2.2.png?raw=true)  
+Рис.2.2  
 
 **№3.**
 Написал командный файл, создающий указанное число файлов, пронумерованных от 1 до N. Число файлов, которые необходимо создать передаётся в аргументы командной строки. Этот же файл умеет удалять все созданные им файлы, если таковые имеются (Рис. 3).  
